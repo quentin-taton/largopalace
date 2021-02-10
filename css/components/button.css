@@ -1,0 +1,20 @@
+.btn-reserve {
+	background-color: #9dad7f;
+	padding :15px 20px;
+	border-radius: 4px;
+	color:black;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn-book {
+	height:15px;
+	width:153px;
+	text-align:center;
+	color:black;
+}
+.btn-book:hover {
+	padding:11px;
+}
+
+
